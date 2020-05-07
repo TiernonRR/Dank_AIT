@@ -2,3 +2,4 @@ secret_python.txt
 /cnn/dank/*
 /cnn/not_dank/*
 /cnn/data/*
+*.h5
