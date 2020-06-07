@@ -3,3 +3,4 @@ secret_python.txt
 /cnn/not_dank/*
 /cnn/data/*
 *.h5
+/cnn/raw_data/*
