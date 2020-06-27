@@ -5,3 +5,4 @@ secret_python.txt
 *.h5
 /cnn/raw_data/*
 ./Images
+/cnn/new raw_data/*
