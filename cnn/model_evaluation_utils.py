@@ -210,3 +210,5 @@ def plot_model_roc_curve(clf, features, true_labels, label_encoder=None, class_n
     plt.title('Receiver Operating Characteristic (ROC) Curve')
     plt.legend(loc="lower right")
     plt.show()
+    
+    return fpr, tpr, roc_auc
