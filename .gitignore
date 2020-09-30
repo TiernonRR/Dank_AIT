@@ -7,3 +7,4 @@ secret_python.txt
 /cnn/raw_data/*
 ./Images
 /cnn/new raw_data/*
+/cnn/vgg_categories/*
